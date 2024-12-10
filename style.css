@@ -1,0 +1,26 @@
+
+body{
+    background-color: blanchedalmond;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+span{
+    display: flex;
+    justify-content: center;
+}
+
+.true-lies{
+    border-style: dashed;
+    margin: 2%;
+}
+
+.about-me{
+    background-color: lightyellow;
+    opacity: 0.8;
+    margin: 2%;
+}
